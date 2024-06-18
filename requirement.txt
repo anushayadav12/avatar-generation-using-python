@@ -1,0 +1,15 @@
+Sure, here's a `requirements.txt` file that includes the necessary libraries for the code provided:
+
+```
+opencv-python
+Pillow
+numpy
+```
+
+You only need three dependencies for this basic image processing task. Here is the `requirements.txt` content in a clearer format:
+
+```
+opencv-python
+Pillow
+numpy
+```
